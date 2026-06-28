@@ -1,6 +1,6 @@
 # Privacy Policy for AIBlocker
 
-**Last updated: June 22, 2026**
+**Last updated: June 28, 2026**
 
 AIBlocker is a privacy-first browser extension designed to block chatbots, hide AI Overview sections on Google search results, and detect AI-modified videos on YouTube.
 
